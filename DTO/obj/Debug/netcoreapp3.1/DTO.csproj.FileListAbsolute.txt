@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\hp\source\repos\ContactAPI3.1\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

@@ -1,0 +1,19 @@
+name: .NET
+on:
+  pull_request:
+    branches: [ master ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET
+     env:
+        HEROKU_API_KEY: 9a126a5c-4e0a-4de2-b36f-125ec1af6ca7
+        APP_NAME:laurenzocontactapi
+      run: |
+        docker build -t laurenzocontactapi .
+        docker tag laurenzocontactapi registry.heroku.com
+        docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
+        heroku container:push web -a $APP_NAME
+        heroku container:release web -a $APP_NAME

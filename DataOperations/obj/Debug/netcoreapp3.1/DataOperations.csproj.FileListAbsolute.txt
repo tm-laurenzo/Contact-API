@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\bin\Debug\netcoreapp3.1\DataOperations.deps.json
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\bin\Debug\netcoreapp3.1\DataOperations.dll
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\bin\Debug\netcoreapp3.1\DataOperations.pdb
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\obj\Debug\netcoreapp3.1\DataOperations.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\obj\Debug\netcoreapp3.1\DataOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\obj\Debug\netcoreapp3.1\DataOperations.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\obj\Debug\netcoreapp3.1\DataOperations.AssemblyInfo.cs
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\obj\Debug\netcoreapp3.1\DataOperations.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\obj\Debug\netcoreapp3.1\DataOperations.csproj.CopyComplete
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\obj\Debug\netcoreapp3.1\DataOperations.dll
+C:\Users\hp\source\repos\ContactAPI3.1\DataOperations\obj\Debug\netcoreapp3.1\DataOperations.pdb
